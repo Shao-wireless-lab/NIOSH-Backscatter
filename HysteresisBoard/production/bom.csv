@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,0805,1,D_Zener_Small,
+"J1, J2",PinHeader_1x02_P2.54mm_Vertical,2,Conn_01x02,
+Q1,SOT95P280X100-6N,1,DMN1019UVT-7,
+Q2,SOTFL40P120X55-3N,1,RZM002P02T2L,
+"R1, R2, R3",0402,3,R_Small,
